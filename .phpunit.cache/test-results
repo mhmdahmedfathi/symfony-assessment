@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"App\\Tests\\Entity\\CountryTest::testGettersAndSetters":0.003,"App\\Tests\\Service\\CountryServiceTest::testSyncCountries":0.011}}
